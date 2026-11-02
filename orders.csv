@@ -1,0 +1,6 @@
+order_id,customer_id,amount,created_at
+101,cust_A,150.50,2026-01-15T10:30:00
+102,cust_B,200.00,2026-01-20T12:00:00
+103,cust_A,invalid_amount,2026-01-22T14:10:00
+104,cust_C,75.25,2026-02-05T09:15:00
+105,cust_B,300.10,2026-02-10T16:45:00
